@@ -1,8 +1,12 @@
 ---
 layout: post
-title: Project) Start Project blog
+title: start project
 comments: true
-categories: project 1
+categories: project
 ---
 
-목표 : 라즈베리파이 프로젝트, 프론트엔드 웹 프로젝트
+* content
+{:toc}
+
+## start project
+project
