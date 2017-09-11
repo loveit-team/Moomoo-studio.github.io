@@ -1,7 +1,7 @@
 # Site settings
-title: Moomoo studio blog
+title: Loveit team blog
 email: dvmoomoodv@gmail.com
-description: Moomoo studio Blogs
+description: Loveit team
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -22,7 +22,7 @@ newsourceroot: https://github.com/Moomoo-studio/Moomoo-studio.github.io/new/mast
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: dvmoomoodv
-disqus_url: "http://moomoo-studio.github.io"
+disqus_url: "http://loveit-team.github.io"
 #########################################
 
 # Build settings
